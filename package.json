@@ -1,0 +1,23 @@
+{
+  "name": "udre",
+  "version": "1.0.0",
+  "description": "Udemy React course practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dain1982/UdRe.git"
+  },
+  "keywords": [
+    "Udemy",
+    "React"
+  ],
+  "author": "Dain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dain1982/UdRe/issues"
+  },
+  "homepage": "https://github.com/dain1982/UdRe#readme"
+}
